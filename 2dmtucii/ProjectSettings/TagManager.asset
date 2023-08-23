@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - "\u041C\u0443\u0445\u043E\u043C\u043E\u0440"
+  - Trap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PoleTravka
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Back_2lvl
+    uniqueID: 3924273119
+    locked: 0
+  - name: Back
+    uniqueID: 1614221355
+    locked: 0
+  - name: Terrain
+    uniqueID: 3355722577
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
